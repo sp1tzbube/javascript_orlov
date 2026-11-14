@@ -53,10 +53,10 @@ Tehdyt tehtävät:
 [Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmytroo/javascript_orlov/flask)
 
 Tehdyt tehtävät:
-- Tehtävä 1: 2 p
+- Tehtävä 1: 4 p
 - Tehtävä 2: 10 p
 
-**Yhteensä 0p**
+**Yhteensä 14p**
 
 ### JS-moduuli 5
 
