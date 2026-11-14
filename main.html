@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+
+        <title>koe aikaa</title>
+
+        <link rel="stylesheet" href="#">
+        <script scr="#" defer></script>
+
+        <style>
+            body{
+                background-color: brown;
+            }
+
+            p{
+                color: blue;
+                font-size: 20px; 
+            }
+            
+            .red {
+                color: #f00;
+            }
+
+            .blue {
+                color: #00f;
+            }
+        </style>
+
+
+    </head>
+    <body>
+        <p id="first">bom dom bla bla</p>
+
+        <div class="box">
+            <div>1</div>
+            <div>2</div>
+            <div>3</div>
+        </div>
+
+        <div id="example"></div>
+        <script>
+            const div = document.querySelector("#example"); // get element whose id is 'example'
+
+            const i = document.createElement("img"); // create img element
+            i.src = "https://via.placeholder.com/320"; // set src attribute
+            i.alt = "Cat"; // set alt attribute
+
+            const t = document.createTextNode(
+                "Here is some of text with a picture.",
+            ); // create text node
+
+            const p = document.createElement("p"); // create p element
+            p.appendChild(t); // add text to p element
+            p.appendChild(i); // add image to p element
+
+            div.appendChild(p); // add p element to the selected element from the HTML document
+            // at this point new HTML will appear in the document.
+
+        </script>
+
+
+        <p class="red" id="paragraph">Some text</p>
+
+        <script>
+        // Toggle red on or off
+        document.querySelector("#paragraph").classList.toggle("red");
+        // Replace red with blue
+        document.querySelector("#paragraph").classList.replace("red", "blue");
+        </script>
+    </body>
+</html>
