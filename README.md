@@ -50,7 +50,7 @@ Tehdyt tehtävät:
 
 ### Moduuli-Flask
 
-[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmytroo/javascript_orlov/flask)
+[Linkki Moduulin Flask kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmytroo/javascript_orlov/flask)
 
 Tehdyt tehtävät:
 - Tehtävä 1: 4 p
@@ -60,7 +60,7 @@ Tehdyt tehtävät:
 
 ### JS-moduuli 5
 
-[Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmytroo/javascript_orlov/js_5)
+[Linkki JS-moduulin 5 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmytroo/javascript_orlov/js_5)
 
 Tehdyt tehtävät:
 - Tehtävä 2: 3 p
