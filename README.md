@@ -63,5 +63,7 @@ Tehdyt tehtävät:
 [Linkki JS-moduulin 4 kansiooni users.metropolia.fi-palvelussa](https://users.metropolia.fi/~dmytroo/javascript_orlov/js_5)
 
 Tehdyt tehtävät:
+- Tehtävä 2: 3 p
+- Tehtävä 3: 7 p
 
-**Yhteensä 0p**
+**Yhteensä 10p**
